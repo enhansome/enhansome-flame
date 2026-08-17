@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-15T20:19:43Z",
+            "last_commit": "2026-08-16T20:02:36Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10723
+            "stars": 10724
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-15T20:53:04Z",
             "owner": "RafaelBarbosatec",
             "repo": "bonfire",
-            "stars": 1463
+            "stars": 1464
           }
         },
         {
@@ -119,7 +119,7 @@
             "last_commit": "2025-02-22T00:22:21Z",
             "owner": "Yayo-Arellano",
             "repo": "flutter_games_compilation",
-            "stars": 178
+            "stars": 179
           }
         },
         {
@@ -357,7 +357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T01:55:08.037Z",
+    "last_updated": "2026-08-17T01:52:51.759Z",
     "original_repository": "flame-engine/awesome-flame",
     "original_repository_sha": "e0bb68acd89b369f9efb1b969d629373c560393a",
     "enhanced_repository": "enhansome/enhansome-flame",
