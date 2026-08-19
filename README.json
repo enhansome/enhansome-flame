@@ -19,7 +19,7 @@
             "last_commit": "2026-08-17T07:46:27Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10727
+            "stars": 10728
           }
         },
         {
@@ -357,7 +357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T01:47:49.410Z",
+    "last_updated": "2026-08-19T01:50:40.014Z",
     "original_repository": "flame-engine/awesome-flame",
     "original_repository_sha": "e0bb68acd89b369f9efb1b969d629373c560393a",
     "enhanced_repository": "enhansome/enhansome-flame",
