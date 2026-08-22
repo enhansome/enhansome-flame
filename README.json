@@ -205,7 +205,7 @@
                     "last_commit": "2025-03-16T15:35:00Z",
                     "owner": "lucasnlm",
                     "repo": "antimine-flutter",
-                    "stars": 21
+                    "stars": 22
                   }
                 },
                 {
@@ -294,7 +294,7 @@
                     "last_commit": "2022-03-11T23:12:15Z",
                     "owner": "ecklf",
                     "repo": "flutters",
-                    "stars": 242
+                    "stars": 243
                   }
                 },
                 {
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T01:54:45.205Z",
+    "last_updated": "2026-08-22T01:47:47.697Z",
     "original_repository": "flame-engine/awesome-flame",
     "original_repository_id": 212109055,
     "original_repository_sha": "e0bb68acd89b369f9efb1b969d629373c560393a",
