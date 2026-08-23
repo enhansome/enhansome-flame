@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T13:27:01Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10726
+            "stars": 10729
           }
         },
         {
@@ -340,7 +340,7 @@
             "last_commit": "2026-07-02T10:11:31Z",
             "owner": "flame-engine",
             "repo": "awesome-flame",
-            "stars": 1377
+            "stars": 1378
           }
         },
         {
@@ -355,7 +355,7 @@
             "last_commit": "2026-07-02T10:11:31Z",
             "owner": "flame-engine",
             "repo": "awesome-flame",
-            "stars": 1377
+            "stars": 1378
           }
         }
       ],
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T01:47:47.697Z",
+    "last_updated": "2026-08-23T02:02:33.334Z",
     "original_repository": "flame-engine/awesome-flame",
     "original_repository_id": 212109055,
     "original_repository_sha": "e0bb68acd89b369f9efb1b969d629373c560393a",

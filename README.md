@@ -98,7 +98,7 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,726 | 🐛 88 | 🌐 Dart | 📅 2026-08-20 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,729 | 🐛 88 | 🌐 Dart | 📅 2026-08-20 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,465 | 🐛 7 | 🌐 Dart | 📅 2026-08-19 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 52 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -148,7 +148,7 @@
 
 #### Strategy
 
-* [Age of New Worlds](https://github.com/ernestwisniewski/aonw) ⭐ 35 | 🐛 6 | 🌐 Dart | 📅 2026-08-21 - An open-source 4X strategy game built with Flutter and Flame, featuring hex maps, turn-based empire building, AI players, and multiplayer foundations. By [ernestwisniewski](https://github.com/ernestwisniewski).
+* [Age of New Worlds](https://github.com/ernestwisniewski/aonw) ⭐ 37 | 🐛 6 | 🌐 Dart | 📅 2026-08-22 - An open-source 4X strategy game built with Flutter and Flame, featuring hex maps, turn-based empire building, AI players, and multiplayer foundations. By [ernestwisniewski](https://github.com/ernestwisniewski).
 
 ### App Releases
 
@@ -313,12 +313,12 @@
 
 ## Non-English Content
 
-* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,377 | 🐛 0 | 📅 2026-07-02
-* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,377 | 🐛 0 | 📅 2026-07-02
+* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,378 | 🐛 0 | 📅 2026-07-02
+* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,378 | 🐛 0 | 📅 2026-07-02
 
 ## Contributing
 
-[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,377 | 🐛 0 | 📅 2026-07-02
+[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,378 | 🐛 0 | 📅 2026-07-02
 
 <!-- Add ref links here -->
 
@@ -332,4 +332,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
