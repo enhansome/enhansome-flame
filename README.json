@@ -4,6 +4,34 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Maze generator",
+              "description": "List of algorithm examples to solve problems like Maze generation and more. By Dannark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288209163,
+                "language": "Dart",
+                "last_commit": "2020-09-11T23:08:28Z",
+                "owner": "Dannark",
+                "repo": "FlameExamples",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Examples"
+        }
+      ],
+      "title": "Articles & Tutorials"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "First-Party Plugins",
           "description": "First-party plugins included in Flame's monorepo.",
@@ -15,7 +43,7 @@
             "last_commit": "2026-08-20T13:27:01Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10729
+            "stars": 10731
           }
         },
         {
@@ -30,7 +58,7 @@
             "last_commit": "2026-08-23T21:17:20Z",
             "owner": "RafaelBarbosatec",
             "repo": "bonfire",
-            "stars": 1465
+            "stars": 1467
           }
         },
         {
@@ -247,6 +275,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Visual Graphs",
+                  "description": "A graph (data structure) algoithims visualizer built with Flutter & Flame. By mglsj",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 811941764,
+                    "language": "Dart",
+                    "last_commit": "2025-09-14T14:58:13Z",
+                    "owner": "mglsj",
+                    "repo": "visual_graphs",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Education"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Dino Run",
                   "description": "A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on Play Store. By DevKage.",
                   "children": [],
@@ -316,11 +366,128 @@
               "description": null,
               "node_type": "group",
               "title": "Platformer"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Darkness Dungeon",
+                  "description": "Simple RPG. By rafaelbarbosatec",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219330283,
+                    "language": "Dart",
+                    "last_commit": "2025-01-12T23:02:17Z",
+                    "owner": "RafaelBarbosatec",
+                    "repo": "darkness_dungeon",
+                    "stars": 469
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "RPG"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Age of New Worlds",
+                  "description": "An open-source 4X strategy game built with Flutter and Flame, featuring hex maps, turn-based empire building, AI players, and multiplayer foundations. By ernestwisniewski.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1280410988,
+                    "language": "Dart",
+                    "last_commit": "2026-08-24T11:58:05Z",
+                    "owner": "ernestwisniewski",
+                    "repo": "aonw",
+                    "stars": 37
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Strategy"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Open Source"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Save The Potato source-code",
+                  "description": "🥇 Winner of Flame Game Jam 3.0 - Rotate the shields and save the potato from incoming orbs! By imaNNeo. for Android or iOS",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 729289846,
+                    "language": "Dart",
+                    "last_commit": "2026-03-05T09:22:27Z",
+                    "owner": "imaNNeo",
+                    "repo": "save_the_potato",
+                    "stars": 40
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Casual"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Penguin Chat - Android",
+                  "description": ", GitHub - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By Sanjeev Madhav",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 380722982,
+                    "language": "Dart",
+                    "last_commit": "2023-04-23T13:10:41Z",
+                    "owner": "Shadow60539",
+                    "repo": "club_penguin_game",
+                    "stars": 118
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Online Multiplayer"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Cycling Escape - Android",
+                  "description": ", iOS, GitHub - You start off with only one rider. Compete in races to start earning money. Unlock more team mates and compete in more extreme and longer races. Keep going and win the ultimate world tour! By ikbendewilliam",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 286003838,
+                    "language": "Dart",
+                    "last_commit": "2025-04-28T21:06:29Z",
+                    "owner": "ikbendewilliam",
+                    "repo": "CyclingEscape",
+                    "stars": 11
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Sports"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "App Releases"
         }
       ],
       "title": "Projects"
@@ -363,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T01:55:04.008Z",
+    "last_updated": "2026-08-24T14:11:17.727Z",
     "original_repository": "flame-engine/awesome-flame",
     "original_repository_id": 212109055,
     "original_repository_sha": "e0bb68acd89b369f9efb1b969d629373c560393a",
