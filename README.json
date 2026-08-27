@@ -128,7 +128,7 @@
                     "last_commit": "2020-07-10T09:54:56Z",
                     "owner": "Float-like-a-dash-Sting-like-a-dart",
                     "repo": "GhostRigger",
-                    "stars": 266
+                    "stars": 265
                   }
                 },
                 {
@@ -530,9 +530,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:36:19.334Z",
-    "original_repository": "flame-engine/awesome-flame",
-    "original_repository_id": 212109055,
+    "last_updated": "2026-08-27T11:37:47.347Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 212109055,
+      "language": null,
+      "last_commit": "2026-07-02T10:11:31Z",
+      "owner": "flame-engine",
+      "repo": "awesome-flame",
+      "stars": 1380
+    },
     "original_repository_sha": "e0bb68acd89b369f9efb1b969d629373c560393a",
     "enhanced_repository": "enhansome/enhansome-flame",
     "enhanced_repository_description": null,
