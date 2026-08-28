@@ -98,7 +98,7 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,732 | 🐛 91 | 🌐 Dart | 📅 2026-08-26 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,732 | 🐛 89 | 🌐 Dart | 📅 2026-08-28 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,467 | 🐛 7 | 🌐 Dart | 📅 2026-08-26 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 52 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -112,7 +112,7 @@
 
 <!--lint ignore double-link-->
 
-* [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) ⭐ 265 | 🐛 0 | 🌐 Dart | 📅 2020-07-10 - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
+* [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) ⭐ 264 | 🐛 0 | 🌐 Dart | 📅 2020-07-10 - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
 * [New Super Jumper](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) ⭐ 179 | 🐛 2 | 🌐 Dart | 📅 2025-02-22 - A doodle jump clone made with Flame and Forge2D. By [Yayocode][2].
 * [Spacescape](https://github.com/ufrshubham/spacescape) ⭐ 133 | 🐛 1 | 🌐 Dart | 📅 2025-10-12 - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage][1].
 * [Snaake!](https://github.com/lucasnlm/snaake-flutter) ⭐ 82 | 🐛 1 | 🌐 Dart | 📅 2020-10-10 - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
@@ -148,7 +148,7 @@
 
 #### Strategy
 
-* [Age of New Worlds](https://github.com/ernestwisniewski/aonw) ⭐ 37 | 🐛 9 | 🌐 Dart | 📅 2026-08-26 - An open-source 4X strategy game built with Flutter and Flame, featuring hex maps, turn-based empire building, AI players, and multiplayer foundations. By [ernestwisniewski](https://github.com/ernestwisniewski).
+* [Age of New Worlds](https://github.com/ernestwisniewski/aonw) ⭐ 37 | 🐛 9 | 🌐 Dart | 📅 2026-08-28 - An open-source 4X strategy game built with Flutter and Flame, featuring hex maps, turn-based empire building, AI players, and multiplayer foundations. By [ernestwisniewski](https://github.com/ernestwisniewski).
 
 ### App Releases
 
@@ -247,7 +247,7 @@
 
 <!--lint ignore double-link-->
 
-* Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub](https://github.com/Shadow60539/club_penguin_game) ⭐ 118 | 🐛 0 | 🌐 Dart | 📅 2023-04-23 - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
+* Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub](https://github.com/Shadow60539/club_penguin_game) ⭐ 117 | 🐛 0 | 🌐 Dart | 📅 2023-04-23 - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
 
 #### Puzzle Games
 
@@ -313,12 +313,12 @@
 
 ## Non-English Content
 
-* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,380 | 🐛 0 | 📅 2026-07-02
-* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,380 | 🐛 0 | 📅 2026-07-02
+* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,381 | 🐛 0 | 📅 2026-07-02
+* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,381 | 🐛 0 | 📅 2026-07-02
 
 ## Contributing
 
-[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,380 | 🐛 0 | 📅 2026-07-02
+[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,381 | 🐛 0 | 📅 2026-07-02
 
 <!-- Add ref links here -->
 
@@ -332,4 +332,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

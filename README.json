@@ -18,7 +18,8 @@
                 "owner": "Dannark",
                 "repo": "FlameExamples",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T11:18:05.254Z"
             }
           ],
           "description": null,
@@ -40,11 +41,12 @@
             "archived": false,
             "id": 107833072,
             "language": "Dart",
-            "last_commit": "2026-08-26T15:06:21Z",
+            "last_commit": "2026-08-28T10:01:26Z",
             "owner": "flame-engine",
             "repo": "flame",
             "stars": 10732
-          }
+          },
+          "first_seen": "2026-08-28T11:18:05.254Z"
         },
         {
           "node_type": "item",
@@ -59,7 +61,8 @@
             "owner": "RafaelBarbosatec",
             "repo": "bonfire",
             "stars": 1467
-          }
+          },
+          "first_seen": "2026-08-28T11:18:05.254Z"
         },
         {
           "node_type": "item",
@@ -74,7 +77,8 @@
             "owner": "kurtome",
             "repo": "leap",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T11:18:05.254Z"
         },
         {
           "node_type": "item",
@@ -89,7 +93,8 @@
             "owner": "Brixto",
             "repo": "flame_texturepacker",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T11:18:05.254Z"
         },
         {
           "node_type": "item",
@@ -104,7 +109,8 @@
             "owner": "misha",
             "repo": "flame_fuse",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T11:18:05.254Z"
         }
       ],
       "title": "Plugins & Libraries"
@@ -128,8 +134,9 @@
                     "last_commit": "2020-07-10T09:54:56Z",
                     "owner": "Float-like-a-dash-Sting-like-a-dart",
                     "repo": "GhostRigger",
-                    "stars": 265
-                  }
+                    "stars": 264
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 },
                 {
                   "node_type": "item",
@@ -144,7 +151,8 @@
                     "owner": "Yayo-Arellano",
                     "repo": "flutter_games_compilation",
                     "stars": 179
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 },
                 {
                   "node_type": "item",
@@ -159,7 +167,8 @@
                     "owner": "ufrshubham",
                     "repo": "spacescape",
                     "stars": 133
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 },
                 {
                   "node_type": "item",
@@ -174,7 +183,8 @@
                     "owner": "lucasnlm",
                     "repo": "snaake-flutter",
                     "stars": 82
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 },
                 {
                   "node_type": "item",
@@ -189,7 +199,8 @@
                     "owner": "cherrybit-studios",
                     "repo": "bob_box",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 },
                 {
                   "node_type": "item",
@@ -204,7 +215,8 @@
                     "owner": "namzug16",
                     "repo": "squareshooter_flame",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 },
                 {
                   "node_type": "item",
@@ -219,7 +231,8 @@
                     "owner": "sourabhgupta811",
                     "repo": "Ant-Squash",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 },
                 {
                   "node_type": "item",
@@ -234,7 +247,8 @@
                     "owner": "lucasnlm",
                     "repo": "antimine-flutter",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 },
                 {
                   "node_type": "item",
@@ -249,7 +263,8 @@
                     "owner": "androideen",
                     "repo": "color_mixer_flame",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 },
                 {
                   "node_type": "item",
@@ -264,7 +279,8 @@
                     "owner": "maurovanetti",
                     "repo": "guidi-tu",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 }
               ],
               "description": null,
@@ -286,7 +302,8 @@
                     "owner": "mglsj",
                     "repo": "visual_graphs",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 }
               ],
               "description": null,
@@ -308,7 +325,8 @@
                     "owner": "ufrshubham",
                     "repo": "dino_run",
                     "stars": 249
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 },
                 {
                   "node_type": "item",
@@ -323,7 +341,8 @@
                     "owner": "bluefireteam",
                     "repo": "bgug",
                     "stars": 98
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 }
               ],
               "description": null,
@@ -345,7 +364,8 @@
                     "owner": "ecklf",
                     "repo": "flutters",
                     "stars": 243
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 },
                 {
                   "node_type": "item",
@@ -360,7 +380,8 @@
                     "owner": "ufrshubham",
                     "repo": "flame_simple_platformer",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 }
               ],
               "description": null,
@@ -382,7 +403,8 @@
                     "owner": "RafaelBarbosatec",
                     "repo": "darkness_dungeon",
                     "stars": 469
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 }
               ],
               "description": null,
@@ -400,11 +422,12 @@
                     "archived": false,
                     "id": 1280410988,
                     "language": "Dart",
-                    "last_commit": "2026-08-26T21:46:36Z",
+                    "last_commit": "2026-08-28T11:12:01Z",
                     "owner": "ernestwisniewski",
                     "repo": "aonw",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 }
               ],
               "description": null,
@@ -433,7 +456,8 @@
                     "owner": "imaNNeo",
                     "repo": "save_the_potato",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 }
               ],
               "description": null,
@@ -454,8 +478,9 @@
                     "last_commit": "2023-04-23T13:10:41Z",
                     "owner": "Shadow60539",
                     "repo": "club_penguin_game",
-                    "stars": 118
-                  }
+                    "stars": 117
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 }
               ],
               "description": null,
@@ -477,7 +502,8 @@
                     "owner": "ikbendewilliam",
                     "repo": "CyclingEscape",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T11:18:05.254Z"
                 }
               ],
               "description": null,
@@ -507,8 +533,9 @@
             "last_commit": "2026-07-02T10:11:31Z",
             "owner": "flame-engine",
             "repo": "awesome-flame",
-            "stars": 1380
-          }
+            "stars": 1381
+          },
+          "first_seen": "2026-08-28T11:18:05.254Z"
         },
         {
           "node_type": "item",
@@ -522,15 +549,16 @@
             "last_commit": "2026-07-02T10:11:31Z",
             "owner": "flame-engine",
             "repo": "awesome-flame",
-            "stars": 1380
-          }
+            "stars": 1381
+          },
+          "first_seen": "2026-08-28T11:18:05.254Z"
         }
       ],
       "title": "Non-English Content"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:47.347Z",
+    "last_updated": "2026-08-28T11:18:05.254Z",
     "original_repository_info": {
       "archived": false,
       "id": 212109055,
@@ -538,7 +566,7 @@
       "last_commit": "2026-07-02T10:11:31Z",
       "owner": "flame-engine",
       "repo": "awesome-flame",
-      "stars": 1380
+      "stars": 1381
     },
     "original_repository_sha": "e0bb68acd89b369f9efb1b969d629373c560393a",
     "enhanced_repository": "enhansome/enhansome-flame",
