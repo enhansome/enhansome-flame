@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example of algorithms in dart/flutter",
+                "homepage": null,
                 "id": 288209163,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2020-09-11T23:08:28Z",
+                "open_issues": 0,
                 "owner": "Dannark",
                 "repo": "FlameExamples",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:18:05.254Z"
             }
@@ -39,12 +44,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Flutter based game engine.",
+            "homepage": "https://flame-engine.org",
             "id": 107833072,
             "language": "Dart",
-            "last_commit": "2026-08-28T10:01:26Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T15:09:25Z",
+            "open_issues": 92,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10732
+            "stars": 10733,
+            "topics": [
+              "dart",
+              "flame",
+              "flutter",
+              "game",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T11:18:05.254Z"
         },
@@ -55,12 +74,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(RPG maker) Create RPG-style or similar games more simply with Flame.",
+            "homepage": "https://bonfire-engine.github.io",
             "id": 247117413,
             "language": "Dart",
-            "last_commit": "2026-08-26T23:00:56Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:32:00Z",
+            "open_issues": 7,
             "owner": "RafaelBarbosatec",
             "repo": "bonfire",
-            "stars": 1467
+            "stars": 1467,
+            "topics": [
+              "dart",
+              "flutter",
+              "flutter-package",
+              "game",
+              "gamedev",
+              "gamedev-library"
+            ]
           },
           "first_seen": "2026-08-28T11:18:05.254Z"
         },
@@ -71,12 +102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An opinionated toolkit for creating 2D platformers on top of the Flame engine.",
+            "homepage": "https://pub.dev/packages/leap",
             "id": 451234197,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2025-05-05T03:36:42Z",
+            "open_issues": 6,
             "owner": "kurtome",
             "repo": "leap",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:05.254Z"
         },
@@ -87,12 +123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 233870586,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2024-01-21T11:00:11Z",
+            "open_issues": 2,
             "owner": "Brixto",
             "repo": "flame_texturepacker",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:05.254Z"
         },
@@ -103,12 +144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Behavior composition with hooks for Flame components.",
+            "homepage": null,
             "id": 814929387,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2026-05-20T02:43:37Z",
+            "open_issues": 0,
             "owner": "misha",
             "repo": "flame_fuse",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:05.254Z"
         }
@@ -129,12 +175,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cyberpunk-inspired puzzle game prototype created with Flutter and Flame #Hack20 #FlutterHackathon ",
+                    "homepage": "https://www.youtube.com/watch?v=yOZAUicGDXc",
                     "id": 275362839,
                     "language": "Dart",
+                    "license": null,
                     "last_commit": "2020-07-10T09:54:56Z",
+                    "open_issues": 0,
                     "owner": "Float-like-a-dash-Sting-like-a-dart",
                     "repo": "GhostRigger",
-                    "stars": 264
+                    "stars": 264,
+                    "topics": [
+                      "flame",
+                      "flame-engine",
+                      "flames-game",
+                      "flutter",
+                      "flutter-app",
+                      "flutter-apps",
+                      "flutterhackathon",
+                      "hack20"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 },
@@ -145,12 +205,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Compilation of games made with flutter and flutter flame",
+                    "homepage": null,
                     "id": 519647015,
                     "language": "Dart",
+                    "license": null,
                     "last_commit": "2025-02-22T00:22:21Z",
+                    "open_issues": 2,
                     "owner": "Yayo-Arellano",
                     "repo": "flutter_games_compilation",
-                    "stars": 179
+                    "stars": 179,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 },
@@ -161,12 +226,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A 2D top-down space shooter made using Flutter and Flame engine.",
+                    "homepage": "https://play.google.com/store/apps/details?id=com.nobs.spacescape",
                     "id": 349507126,
                     "language": "Dart",
+                    "license": "MIT",
                     "last_commit": "2025-10-12T12:53:40Z",
+                    "open_issues": 1,
                     "owner": "ufrshubham",
                     "repo": "spacescape",
-                    "stars": 133
+                    "stars": 133,
+                    "topics": [
+                      "2d-game",
+                      "2d-top",
+                      "dart",
+                      "flame",
+                      "flame-engine",
+                      "flame-game",
+                      "flutter",
+                      "flutter-game",
+                      "game",
+                      "space-shooter",
+                      "spacescape",
+                      "spaceshoorter",
+                      "top-down-game"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 },
@@ -177,12 +261,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Snaake is a small and very simple clone of the classic snake game from Nokia phones.",
+                    "homepage": null,
                     "id": 254473711,
                     "language": "Dart",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-10-10T12:29:54Z",
+                    "open_issues": 1,
                     "owner": "lucasnlm",
                     "repo": "snaake-flutter",
-                    "stars": 82
+                    "stars": 82,
+                    "topics": [
+                      "bloc",
+                      "flame-engine",
+                      "flutter",
+                      "flutter-apps",
+                      "hacktoberfest",
+                      "snake-game"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 },
@@ -193,12 +289,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple Flame Game to function as a tutorial",
+                    "homepage": null,
                     "id": 192984001,
                     "language": "Dart",
+                    "license": null,
                     "last_commit": "2020-02-04T23:44:06Z",
+                    "open_issues": 0,
                     "owner": "cherrybit-studios",
                     "repo": "bob_box",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 },
@@ -209,12 +310,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Shooter made with Flutter and Flame",
+                    "homepage": null,
                     "id": 425308035,
                     "language": "Dart",
+                    "license": "MIT",
                     "last_commit": "2025-07-08T16:05:38Z",
+                    "open_issues": 1,
                     "owner": "namzug16",
                     "repo": "squareshooter_flame",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 },
@@ -225,12 +331,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "2D game on Flutter. Made with Flame game engine.",
+                    "homepage": null,
                     "id": 279214083,
                     "language": "Dart",
+                    "license": null,
                     "last_commit": "2024-02-16T10:40:46Z",
+                    "open_issues": 0,
                     "owner": "sourabhgupta811",
                     "repo": "Ant-Squash",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 },
@@ -241,12 +352,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Antimine is an open source minesweeper-like puzzle game.",
+                    "homepage": null,
                     "id": 949165952,
                     "language": "Dart",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-03-16T15:35:00Z",
+                    "open_issues": 7,
                     "owner": "lucasnlm",
                     "repo": "antimine-flutter",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "flutter",
+                      "flutter-flame",
+                      "game-development",
+                      "minesweeper-game",
+                      "puzzle"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 },
@@ -257,12 +379,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Color Mixer game in Flame engine",
+                    "homepage": null,
                     "id": 349413887,
                     "language": "Dart",
+                    "license": "MIT",
                     "last_commit": "2021-04-09T03:10:35Z",
+                    "open_issues": 0,
                     "owner": "androideen",
                     "repo": "color_mixer_flame",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 },
@@ -273,12 +400,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A mobile app made in Flutter to pick the sober driver",
+                    "homepage": null,
                     "id": 589512058,
                     "language": "Dart",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-05T08:49:24Z",
+                    "open_issues": 0,
                     "owner": "maurovanetti",
                     "repo": "guidi-tu",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "dui",
+                      "educational-game",
+                      "flutter",
+                      "flutter-flame"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 }
@@ -296,12 +433,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "http://mglsj.eu.org/visual_graphs/",
                     "id": 811941764,
                     "language": "Dart",
+                    "license": "MIT",
                     "last_commit": "2025-09-14T14:58:13Z",
+                    "open_issues": 0,
                     "owner": "mglsj",
                     "repo": "visual_graphs",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 }
@@ -319,12 +461,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A 2D infinite side scroller mobile game made in Flutter using Flame engine.",
+                    "homepage": "https://play.google.com/store/apps/details?id=com.nobs.dino_run",
                     "id": 318975137,
                     "language": "Dart",
+                    "license": "MIT",
                     "last_commit": "2026-04-04T02:39:56Z",
+                    "open_issues": 0,
                     "owner": "ufrshubham",
                     "repo": "dino_run",
-                    "stars": 249
+                    "stars": 249,
+                    "topics": [
+                      "2d-game",
+                      "dino",
+                      "dinorun",
+                      "flame",
+                      "flutter",
+                      "game",
+                      "sidescroller",
+                      "trex-game"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 },
@@ -335,12 +491,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and a gun-related twist.",
+                    "homepage": "https://fireslime.xyz/games/bgug",
                     "id": 112891185,
                     "language": "Dart",
+                    "license": "MIT",
                     "last_commit": "2020-07-27T16:49:58Z",
+                    "open_issues": 0,
                     "owner": "bluefireteam",
                     "repo": "bgug",
-                    "stars": 98
+                    "stars": 98,
+                    "topics": [
+                      "action",
+                      "bgug",
+                      "fast-paced",
+                      "flame",
+                      "flutter",
+                      "game",
+                      "platformer",
+                      "sidescroller"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 }
@@ -358,12 +528,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A game powered by Flutter and Flame",
+                    "homepage": null,
                     "id": 182262993,
                     "language": "Dart",
+                    "license": "MIT",
                     "last_commit": "2022-03-11T23:12:15Z",
+                    "open_issues": 0,
                     "owner": "ecklf",
                     "repo": "flutters",
-                    "stars": 243
+                    "stars": 243,
+                    "topics": [
+                      "flame",
+                      "flutter",
+                      "flutter-games",
+                      "flutter-gaming",
+                      "game",
+                      "game-2d",
+                      "game-development"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 },
@@ -374,12 +557,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A 2D platformer made using Flame engine",
+                    "homepage": "https://ufrshubham.itch.io/square-boy",
                     "id": 445781695,
                     "language": "Dart",
+                    "license": "MIT",
                     "last_commit": "2025-11-21T15:32:54Z",
+                    "open_issues": 0,
                     "owner": "ufrshubham",
                     "repo": "flame_simple_platformer",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": [
+                      "2d-game",
+                      "dart",
+                      "flame-engine",
+                      "flutter",
+                      "flutter-game",
+                      "game-development",
+                      "mobile-games",
+                      "platformer"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 }
@@ -397,12 +594,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Game RPG build by Flame Flutter",
+                    "homepage": null,
                     "id": 219330283,
                     "language": "Dart",
+                    "license": "MIT",
                     "last_commit": "2025-01-12T23:02:17Z",
+                    "open_issues": 1,
                     "owner": "RafaelBarbosatec",
                     "repo": "darkness_dungeon",
-                    "stars": 469
+                    "stars": 469,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 }
@@ -420,12 +622,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A 4X hex strategy game built with Rust, Flutter and Flame.",
+                    "homepage": null,
                     "id": 1280410988,
                     "language": "Dart",
-                    "last_commit": "2026-08-28T11:12:01Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T02:00:15Z",
+                    "open_issues": 7,
                     "owner": "ernestwisniewski",
                     "repo": "aonw",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 }
@@ -450,12 +657,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "http://savethepotato.com",
                     "id": 729289846,
                     "language": "Dart",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-05T09:22:27Z",
+                    "open_issues": 3,
                     "owner": "imaNNeo",
                     "repo": "save_the_potato",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 }
@@ -473,12 +685,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple 2D multiplayer online game built using Flutter and Flame engine",
+                    "homepage": "https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game",
                     "id": 380722982,
                     "language": "Dart",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-04-23T13:10:41Z",
+                    "open_issues": 0,
                     "owner": "Shadow60539",
                     "repo": "club_penguin_game",
-                    "stars": 117
+                    "stars": 117,
+                    "topics": [
+                      "firebase",
+                      "firebase-auth",
+                      "firebase-realtime-database",
+                      "flame",
+                      "flutter",
+                      "game"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 }
@@ -496,12 +720,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 286003838,
                     "language": "Dart",
+                    "license": "MIT",
                     "last_commit": "2025-04-28T21:06:29Z",
+                    "open_issues": 0,
                     "owner": "ikbendewilliam",
                     "repo": "CyclingEscape",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
                 }
@@ -528,12 +757,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
+            "homepage": null,
             "id": 212109055,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-07-02T10:11:31Z",
+            "open_issues": 0,
             "owner": "flame-engine",
             "repo": "awesome-flame",
-            "stars": 1381
+            "stars": 1381,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "flame",
+              "flutter",
+              "game",
+              "game-development",
+              "lists",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T11:18:05.254Z"
         },
@@ -544,12 +787,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
+            "homepage": null,
             "id": 212109055,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-07-02T10:11:31Z",
+            "open_issues": 0,
             "owner": "flame-engine",
             "repo": "awesome-flame",
-            "stars": 1381
+            "stars": 1381,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "flame",
+              "flutter",
+              "game",
+              "game-development",
+              "lists",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T11:18:05.254Z"
         }
@@ -558,15 +815,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:18:05.254Z",
+    "last_updated": "2026-08-29T04:33:52.070Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
+      "homepage": null,
       "id": 212109055,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-02T10:11:31Z",
+      "open_issues": 0,
       "owner": "flame-engine",
       "repo": "awesome-flame",
-      "stars": 1381
+      "stars": 1381,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "flame",
+        "flutter",
+        "game",
+        "game-development",
+        "lists",
+        "resources"
+      ]
     },
     "original_repository_sha": "e0bb68acd89b369f9efb1b969d629373c560393a",
     "enhanced_repository": "enhansome/enhansome-flame",
