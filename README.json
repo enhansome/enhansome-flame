@@ -49,11 +49,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-08-31T01:25:52Z",
+            "last_commit": "2026-09-01T04:00:17Z",
             "open_issues": 85,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10736,
+            "stars": 10737,
             "topics": [
               "dart",
               "flame",
@@ -762,7 +762,7 @@
             "id": 212109055,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-07-02T10:11:31Z",
+            "last_commit": "2026-08-31T14:45:55Z",
             "open_issues": 0,
             "owner": "flame-engine",
             "repo": "awesome-flame",
@@ -792,7 +792,7 @@
             "id": 212109055,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-07-02T10:11:31Z",
+            "last_commit": "2026-08-31T14:45:55Z",
             "open_issues": 0,
             "owner": "flame-engine",
             "repo": "awesome-flame",
@@ -815,7 +815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T05:26:07.435Z",
+    "last_updated": "2026-09-01T05:00:53.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -823,7 +823,7 @@
       "id": 212109055,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-07-02T10:11:31Z",
+      "last_commit": "2026-08-31T14:45:55Z",
       "open_issues": 0,
       "owner": "flame-engine",
       "repo": "awesome-flame",
@@ -839,7 +839,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "e0bb68acd89b369f9efb1b969d629373c560393a",
+    "original_repository_sha": "27c6abbb4ef99020c61c209a4aab3ae92eadf877",
     "enhanced_repository": "enhansome/enhansome-flame",
     "enhanced_repository_description": null,
     "title": "Awesome Flame with stars"

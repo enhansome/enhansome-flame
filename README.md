@@ -92,13 +92,15 @@
 
 * [How to build a real-time multiplayer game with Flutter Flame](https://supabase.com/blog/flutter-real-time-multiplayer-game) - Using Flutter, Flame, and Supabase's real-time features to build a real-time multiplayer shooting game. By [Tyler Shukert](https://twitter.com/dshukertjr).
 
+* [Publishing your Flutter Game on the Steam Deck!](https://dev.to/erickzanardo/publishing-your-flutter-game-in-the-steam-deck-oec) - A walkthrough on how to publish your Flutter/Flame game on the Steam Deck. By [Erick Zanardo](https://erick.gamedev.blue/)
+
 ### Examples
 
 * [Maze generator](https://github.com/Dannark/FlameExamples) ⭐ 20 | 🐛 0 | 🌐 Dart | 📅 2020-09-11 - List of algorithm examples to solve problems like Maze generation and more. By [Dannark](https://github.com/Dannark/)
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,736 | 🐛 85 | 🌐 Dart | 📅 2026-08-31 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,737 | 🐛 85 | 🌐 Dart | 📅 2026-09-01 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,467 | 🐛 7 | 🌐 Dart | 📅 2026-08-28 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 52 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -179,6 +181,12 @@
 * Omnichess - [Web](https://www.omnichess.club), [Android](https://play.google.com/store/apps/details?id=club.omnichess), [iOS](https://apps.apple.com/us/app/omnichess/id1593756511) - Create and play your own Chess variants! 2-8 players. Online/AI. Square/Hexagonal tiled boards. By [Chirag Patel](https://github.com/orgs/Omnimind-Ltd)
 
 * [Chinese Checkers](https://www.dong.digital/chinesecheckers/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.chinesecheckers), [iOS](https://apps.apple.com/app/chinesecheckers/id1596651307) - Play Chinese Checkers (Sternhalma), a popular strategy board game, online with friends/strangers or offline with bots. By [Dong Digital][3].
+
+#### Cards
+
+<!--lint ignore double-link-->
+
+* [Retro Spider](https://g4me.info/retro-spider) - The classic Solitaire Spider game, in pretty pixel art style for Android and iOS. By [CherryBit Studios](https://cherrybit.studio/)
 
 #### Casual
 
@@ -262,7 +270,7 @@
 
 * [Oderrube](https://oderrube.pcgoncalves.com.br/) - [Android](https://play.google.com/store/apps/details?id=br.com.pcgoncalves.oderrube), [IOS](https://apps.apple.com/br/app/oderrube/id6447583342?platform=iphone) - Oderrube is an physics puzzle game. Carefully remove the blocks to allow Derrubito to fall into the target. By [Paulo Gonçalves](https://www.linkedin.com/in/opaulogoncalves)
 
-* [Mine Cart Operator](https://cherrybit.itch.io/mine-cart-operator) - Mine cart operator is dekstop puzzle game for Windows, Mac and Linux. By [CherryBit Studios](https://cherrybit.studio/)
+* [Mine Cart Operator](https://store.steampowered.com/app/3997420/Mine_Cart_Operator/) - Mine cart operator is dekstop puzzle game for Windows, Mac and Linux. By [CherryBit Studios](https://cherrybit.studio/)
 
 * Jigsaw Puzzles - [Android](https://play.google.com/store/apps/details?id=jigsaw.puzzle.game), [iOS](https://apps.apple.com/us/app/jigsaw-puzzles-puzzle-play/id6469541260) - Relaxing jigsaw puzzle game with thousands of HD images, custom puzzles and daily challenges. By [Mikhail Smirnov](https://happyjigsaw.com)
 
@@ -313,12 +321,12 @@
 
 ## Non-English Content
 
-* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,382 | 🐛 0 | 📅 2026-07-02
-* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,382 | 🐛 0 | 📅 2026-07-02
+* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,382 | 🐛 0 | 📅 2026-08-31
+* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,382 | 🐛 0 | 📅 2026-08-31
 
 ## Contributing
 
-[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,382 | 🐛 0 | 📅 2026-07-02
+[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,382 | 🐛 0 | 📅 2026-08-31
 
 <!-- Add ref links here -->
 
@@ -332,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
