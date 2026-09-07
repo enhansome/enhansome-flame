@@ -53,7 +53,7 @@
             "open_issues": 85,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10739,
+            "stars": 10740,
             "topics": [
               "dart",
               "flame",
@@ -79,11 +79,11 @@
             "id": 247117413,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-06T04:27:50Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-07T03:02:19Z",
+            "open_issues": 6,
             "owner": "RafaelBarbosatec",
             "repo": "bonfire",
-            "stars": 1468,
+            "stars": 1467,
             "topics": [
               "dart",
               "flutter",
@@ -442,7 +442,7 @@
                     "open_issues": 0,
                     "owner": "mglsj",
                     "repo": "visual_graphs",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
@@ -815,7 +815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T04:31:02.912Z",
+    "last_updated": "2026-09-07T04:30:19.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
