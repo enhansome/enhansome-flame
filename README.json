@@ -53,7 +53,7 @@
             "open_issues": 84,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10748,
+            "stars": 10749,
             "topics": [
               "dart",
               "flame",
@@ -815,7 +815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T04:28:07.945Z",
+    "last_updated": "2026-09-13T04:40:14.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
