@@ -50,10 +50,10 @@
             "language": "Dart",
             "license": "MIT",
             "last_commit": "2026-09-14T19:16:42Z",
-            "open_issues": 83,
+            "open_issues": 84,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10752,
+            "stars": 10754,
             "topics": [
               "dart",
               "flame",
@@ -470,7 +470,7 @@
                     "open_issues": 0,
                     "owner": "ufrshubham",
                     "repo": "dino_run",
-                    "stars": 250,
+                    "stars": 251,
                     "topics": [
                       "2d-game",
                       "dino",
@@ -766,7 +766,7 @@
             "open_issues": 0,
             "owner": "flame-engine",
             "repo": "awesome-flame",
-            "stars": 1382,
+            "stars": 1381,
             "topics": [
               "awesome",
               "awesome-list",
@@ -796,7 +796,7 @@
             "open_issues": 0,
             "owner": "flame-engine",
             "repo": "awesome-flame",
-            "stars": 1382,
+            "stars": 1381,
             "topics": [
               "awesome",
               "awesome-list",
@@ -815,7 +815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T04:48:13.755Z",
+    "last_updated": "2026-09-16T04:43:54.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -827,7 +827,7 @@
       "open_issues": 0,
       "owner": "flame-engine",
       "repo": "awesome-flame",
-      "stars": 1382,
+      "stars": 1381,
       "topics": [
         "awesome",
         "awesome-list",

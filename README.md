@@ -100,7 +100,7 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,752 | 🐛 83 | 🌐 Dart | 📅 2026-09-14 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,754 | 🐛 84 | 🌐 Dart | 📅 2026-09-14 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,469 | 🐛 6 | 🌐 Dart | 📅 2026-09-07 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 51 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -134,7 +134,7 @@
 
 <!--lint ignore double-link-->
 
-* [Dino Run](https://github.com/ufrshubham/dino_run) ⭐ 250 | 🐛 0 | 🌐 Dart | 📅 2026-04-04 - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage][1].
+* [Dino Run](https://github.com/ufrshubham/dino_run) ⭐ 251 | 🐛 0 | 🌐 Dart | 📅 2026-04-04 - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage][1].
 
 * [BGUG](https://github.com/fireslime/bgug) ⭐ 98 | 🐛 0 | 🌐 Dart | 📅 2020-07-27 - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
@@ -321,12 +321,12 @@
 
 ## Non-English Content
 
-* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,382 | 🐛 0 | 📅 2026-08-31
-* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,382 | 🐛 0 | 📅 2026-08-31
+* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,381 | 🐛 0 | 📅 2026-08-31
+* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,381 | 🐛 0 | 📅 2026-08-31
 
 ## Contributing
 
-[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,382 | 🐛 0 | 📅 2026-08-31
+[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,381 | 🐛 0 | 📅 2026-08-31
 
 <!-- Add ref links here -->
 
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
