@@ -49,11 +49,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-18T14:53:59Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-21T18:09:16Z",
+            "open_issues": 83,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10760,
+            "stars": 10763,
             "topics": [
               "dart",
               "flame",
@@ -83,7 +83,7 @@
             "open_issues": 6,
             "owner": "RafaelBarbosatec",
             "repo": "bonfire",
-            "stars": 1469,
+            "stars": 1471,
             "topics": [
               "dart",
               "flutter",
@@ -766,7 +766,7 @@
             "open_issues": 0,
             "owner": "flame-engine",
             "repo": "awesome-flame",
-            "stars": 1382,
+            "stars": 1384,
             "topics": [
               "awesome",
               "awesome-list",
@@ -796,7 +796,7 @@
             "open_issues": 0,
             "owner": "flame-engine",
             "repo": "awesome-flame",
-            "stars": 1382,
+            "stars": 1384,
             "topics": [
               "awesome",
               "awesome-list",
@@ -815,7 +815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T04:49:05.655Z",
+    "last_updated": "2026-09-22T04:47:43.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -827,7 +827,7 @@
       "open_issues": 0,
       "owner": "flame-engine",
       "repo": "awesome-flame",
-      "stars": 1382,
+      "stars": 1384,
       "topics": [
         "awesome",
         "awesome-list",
