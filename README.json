@@ -49,11 +49,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-21T18:09:16Z",
+            "last_commit": "2026-09-22T07:36:33Z",
             "open_issues": 83,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10763,
+            "stars": 10766,
             "topics": [
               "dart",
               "flame",
@@ -214,7 +214,7 @@
                     "open_issues": 2,
                     "owner": "Yayo-Arellano",
                     "repo": "flutter_games_compilation",
-                    "stars": 179,
+                    "stars": 178,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
@@ -815,7 +815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T04:47:43.049Z",
+    "last_updated": "2026-09-23T04:39:31.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
