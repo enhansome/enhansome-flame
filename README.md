@@ -100,7 +100,7 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,768 | 🐛 88 | 🌐 Dart | 📅 2026-09-25 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,770 | 🐛 89 | 🌐 Dart | 📅 2026-09-26 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,475 | 🐛 6 | 🌐 Dart | 📅 2026-09-07 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 51 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
