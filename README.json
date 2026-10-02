@@ -49,11 +49,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-01T02:58:39Z",
-            "open_issues": 82,
+            "last_commit": "2026-10-01T19:25:46Z",
+            "open_issues": 77,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10779,
+            "stars": 10780,
             "topics": [
               "dart",
               "flame",
@@ -83,7 +83,7 @@
             "open_issues": 6,
             "owner": "RafaelBarbosatec",
             "repo": "bonfire",
-            "stars": 1476,
+            "stars": 1477,
             "topics": [
               "dart",
               "flutter",
@@ -763,10 +763,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-31T14:45:55Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "flame-engine",
             "repo": "awesome-flame",
-            "stars": 1385,
+            "stars": 1386,
             "topics": [
               "awesome",
               "awesome-list",
@@ -793,10 +793,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-31T14:45:55Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "flame-engine",
             "repo": "awesome-flame",
-            "stars": 1385,
+            "stars": 1386,
             "topics": [
               "awesome",
               "awesome-list",
@@ -815,7 +815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T05:44:34.217Z",
+    "last_updated": "2026-10-02T05:28:36.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -824,10 +824,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-31T14:45:55Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "flame-engine",
       "repo": "awesome-flame",
-      "stars": 1385,
+      "stars": 1386,
       "topics": [
         "awesome",
         "awesome-list",
