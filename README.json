@@ -49,8 +49,8 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-01T19:25:46Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-02T15:17:32Z",
+            "open_issues": 78,
             "owner": "flame-engine",
             "repo": "flame",
             "stars": 10780,
@@ -115,6 +115,32 @@
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:05.254Z"
+        },
+        {
+          "node_type": "item",
+          "title": "flame_flutter3d",
+          "description": "Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By dzolotov",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An independent implementation of a 3D engine on Flutter GPU, a game engine on top of it",
+            "homepage": "https://flutter3d.pleion.dev",
+            "id": 1328186979,
+            "language": "Dart",
+            "license": "MIT",
+            "last_commit": "2026-10-03T01:55:09Z",
+            "open_issues": 2,
+            "owner": "pleiondev",
+            "repo": "flutter3d",
+            "stars": 31,
+            "topics": [
+              "3d-game",
+              "3d-graphics",
+              "flutter",
+              "gamedev"
+            ]
+          },
+          "first_seen": "2026-10-03T04:45:20.734Z"
         },
         {
           "node_type": "item",
@@ -746,76 +772,10 @@
         }
       ],
       "title": "Projects"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mandarin Chinese (中文)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
-            "homepage": null,
-            "id": 212109055,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-08-31T14:45:55Z",
-            "open_issues": 1,
-            "owner": "flame-engine",
-            "repo": "awesome-flame",
-            "stars": 1386,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "flame",
-              "flutter",
-              "game",
-              "game-development",
-              "lists",
-              "resources"
-            ]
-          },
-          "first_seen": "2026-08-28T11:18:05.254Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Spanish (Español)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
-            "homepage": null,
-            "id": 212109055,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-08-31T14:45:55Z",
-            "open_issues": 1,
-            "owner": "flame-engine",
-            "repo": "awesome-flame",
-            "stars": 1386,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "flame",
-              "flutter",
-              "game",
-              "game-development",
-              "lists",
-              "resources"
-            ]
-          },
-          "first_seen": "2026-08-28T11:18:05.254Z"
-        }
-      ],
-      "title": "Non-English Content"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:28:36.907Z",
+    "last_updated": "2026-10-03T04:45:20.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -823,11 +783,11 @@
       "id": 212109055,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-31T14:45:55Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-02T06:39:38Z",
+      "open_issues": 0,
       "owner": "flame-engine",
       "repo": "awesome-flame",
-      "stars": 1386,
+      "stars": 1387,
       "topics": [
         "awesome",
         "awesome-list",
@@ -839,7 +799,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "27c6abbb4ef99020c61c209a4aab3ae92eadf877",
+    "original_repository_sha": "338fd31c7850d1bb4b06326ffad3843267770d75",
     "enhanced_repository": "enhansome/enhansome-flame",
     "enhanced_repository_description": null,
     "title": "Awesome Flame with stars"
