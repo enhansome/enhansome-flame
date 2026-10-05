@@ -49,8 +49,8 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-03T12:21:56Z",
-            "open_issues": 79,
+            "last_commit": "2026-10-04T20:12:04Z",
+            "open_issues": 77,
             "owner": "flame-engine",
             "repo": "flame",
             "stars": 10781,
@@ -741,8 +741,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Cycling Escape - Android",
-                  "description": ", iOS, GitHub - You start off with only one rider. Compete in races to start earning money. Unlock more team mates and compete in more extreme and longer races. Keep going and win the ultimate world tour! By ikbendewilliam",
+                  "title": "Cycling Escape - GitHub",
+                  "description": "You start off with only one rider. Compete in races to start earning money. Unlock more team mates and compete in more extreme and longer races. Keep going and win the ultimate world tour! By ikbendewilliam",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T05:44:50.915Z",
+    "last_updated": "2026-10-05T05:29:37.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -783,8 +783,8 @@
       "id": 212109055,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-02T06:39:38Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-04T13:42:32Z",
+      "open_issues": 0,
       "owner": "flame-engine",
       "repo": "awesome-flame",
       "stars": 1387,
@@ -799,7 +799,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "338fd31c7850d1bb4b06326ffad3843267770d75",
+    "original_repository_sha": "222e79aa084e9b6a2712d1c450e58f6b08016041",
     "enhanced_repository": "enhansome/enhansome-flame",
     "enhanced_repository_description": null,
     "title": "Awesome Flame with stars"
