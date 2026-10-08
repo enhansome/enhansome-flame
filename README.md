@@ -100,7 +100,7 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,784 | 🐛 77 | 🌐 Dart | 📅 2026-10-06 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,782 | 🐛 80 | 🌐 Dart | 📅 2026-10-06 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,480 | 🐛 6 | 🌐 Dart | 📅 2026-09-07 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 51 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_flutter3d](https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d) ⭐ 32 | 🐛 8 | 🌐 Dart | 📅 2026-10-05 - Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By [dzolotov](https://github.com/dzolotov)
@@ -334,4 +334,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
