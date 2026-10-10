@@ -53,7 +53,7 @@
             "open_issues": 78,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10782,
+            "stars": 10783,
             "topics": [
               "dart",
               "flame",
@@ -128,7 +128,7 @@
             "id": 1328186979,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-05T09:53:41Z",
+            "last_commit": "2026-10-10T05:40:42Z",
             "open_issues": 9,
             "owner": "pleiondev",
             "repo": "flutter3d",
@@ -210,7 +210,7 @@
                     "open_issues": 0,
                     "owner": "Float-like-a-dash-Sting-like-a-dart",
                     "repo": "GhostRigger",
-                    "stars": 265,
+                    "stars": 266,
                     "topics": [
                       "flame",
                       "flame-engine",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T06:01:42.827Z",
+    "last_updated": "2026-10-10T05:44:06.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -787,7 +787,7 @@
       "open_issues": 0,
       "owner": "flame-engine",
       "repo": "awesome-flame",
-      "stars": 1386,
+      "stars": 1387,
       "topics": [
         "awesome",
         "awesome-list",
