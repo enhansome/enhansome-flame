@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "Dannark",
                 "repo": "FlameExamples",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:18:05.254Z"
@@ -49,11 +49,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-13T00:14:12Z",
-            "open_issues": 84,
+            "last_commit": "2026-10-13T19:38:47Z",
+            "open_issues": 81,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10785,
+            "stars": 10786,
             "topics": [
               "dart",
               "flame",
@@ -83,7 +83,7 @@
             "open_issues": 6,
             "owner": "RafaelBarbosatec",
             "repo": "bonfire",
-            "stars": 1482,
+            "stars": 1483,
             "topics": [
               "dart",
               "flutter",
@@ -128,7 +128,7 @@
             "id": 1328186979,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-13T04:38:55Z",
+            "last_commit": "2026-10-14T01:22:31Z",
             "open_issues": 10,
             "owner": "pleiondev",
             "repo": "flutter3d",
@@ -592,7 +592,7 @@
                     "open_issues": 0,
                     "owner": "ufrshubham",
                     "repo": "flame_simple_platformer",
-                    "stars": 66,
+                    "stars": 65,
                     "topics": [
                       "2d-game",
                       "dart",
@@ -657,7 +657,7 @@
                     "open_issues": 15,
                     "owner": "ernestwisniewski",
                     "repo": "aonw",
-                    "stars": 37,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T06:43:11.133Z",
+    "last_updated": "2026-10-14T04:46:29.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -784,10 +784,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-04T13:42:32Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "flame-engine",
       "repo": "awesome-flame",
-      "stars": 1387,
+      "stars": 1388,
       "topics": [
         "awesome",
         "awesome-list",
