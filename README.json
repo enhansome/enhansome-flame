@@ -49,8 +49,8 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-13T19:38:47Z",
-            "open_issues": 81,
+            "last_commit": "2026-10-14T11:10:38Z",
+            "open_issues": 78,
             "owner": "flame-engine",
             "repo": "flame",
             "stars": 10786,
@@ -128,11 +128,11 @@
             "id": 1328186979,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-14T01:22:31Z",
+            "last_commit": "2026-10-14T17:46:24Z",
             "open_issues": 10,
             "owner": "pleiondev",
             "repo": "flutter3d",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "3d-game",
               "3d-graphics",
@@ -210,7 +210,7 @@
                     "open_issues": 0,
                     "owner": "Float-like-a-dash-Sting-like-a-dart",
                     "repo": "GhostRigger",
-                    "stars": 266,
+                    "stars": 265,
                     "topics": [
                       "flame",
                       "flame-engine",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T04:46:29.815Z",
+    "last_updated": "2026-10-15T04:29:20.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -783,8 +783,8 @@
       "id": 212109055,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-04T13:42:32Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-14T06:26:50Z",
+      "open_issues": 0,
       "owner": "flame-engine",
       "repo": "awesome-flame",
       "stars": 1388,
@@ -799,7 +799,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "222e79aa084e9b6a2712d1c450e58f6b08016041",
+    "original_repository_sha": "9d333600ced800c87bcf6b390cbdb171317d8c3a",
     "enhanced_repository": "enhansome/enhansome-flame",
     "enhanced_repository_description": null,
     "title": "Awesome Flame with stars"
