@@ -53,7 +53,7 @@
             "open_issues": 81,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10790,
+            "stars": 10793,
             "topics": [
               "dart",
               "flame",
@@ -83,7 +83,7 @@
             "open_issues": 6,
             "owner": "RafaelBarbosatec",
             "repo": "bonfire",
-            "stars": 1484,
+            "stars": 1485,
             "topics": [
               "dart",
               "flutter",
@@ -128,8 +128,8 @@
             "id": 1328186979,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-16T18:09:30Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-18T00:32:27Z",
+            "open_issues": 7,
             "owner": "pleiondev",
             "repo": "flutter3d",
             "stars": 33,
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T04:17:48.158Z",
+    "last_updated": "2026-10-18T04:23:00.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -783,8 +783,8 @@
       "id": 212109055,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-14T06:26:50Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-17T11:35:30Z",
+      "open_issues": 0,
       "owner": "flame-engine",
       "repo": "awesome-flame",
       "stars": 1389,
@@ -799,7 +799,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "9d333600ced800c87bcf6b390cbdb171317d8c3a",
+    "original_repository_sha": "b006d7f318487e780f55656e19acc6a62bbfb05d",
     "enhanced_repository": "enhansome/enhansome-flame",
     "enhanced_repository_description": null,
     "title": "Awesome Flame with stars"

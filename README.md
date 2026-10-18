@@ -100,10 +100,10 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,790 | 🐛 81 | 🌐 Dart | 📅 2026-10-16 - First-party plugins included in Flame's monorepo.
-* [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,484 | 🐛 6 | 🌐 Dart | 📅 2026-09-07 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,793 | 🐛 81 | 🌐 Dart | 📅 2026-10-16 - First-party plugins included in Flame's monorepo.
+* [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,485 | 🐛 6 | 🌐 Dart | 📅 2026-09-07 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 51 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
-* [flame\_flutter3d](https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d) ⭐ 33 | 🐛 9 | 🌐 Dart | 📅 2026-10-16 - Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By [dzolotov](https://github.com/dzolotov)
+* [flame\_flutter3d](https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d) ⭐ 33 | 🐛 7 | 🌐 Dart | 📅 2026-10-18 - Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By [dzolotov](https://github.com/dzolotov)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
 * [fuse](https://github.com/misha/flame_fuse) ⭐ 3 | 🐛 0 | 🌐 Dart | 📅 2026-05-20 - Behavior composition with hooks for Flame components. By [Misha](https://github.com/misha)
 
@@ -237,6 +237,8 @@
 
 * Upverse: Endless Jump - [Android](https://play.google.com/store/apps/details?id=com.xeinebiu.upverse) - Bounce from a sunny meadow into space and beyond. How high can you go? By [xeinebiu](https://github.com/xeinebiu)
 
+* Pimbli: Super Adventures - [Android](https://play.google.com/store/apps/details?id=com.xeinebiu.mousworld1) - Run, jump and explore four worlds with Pimbli, a little hero on a big journey. By [xeinebiu](https://github.com/xeinebiu)
+
 #### Educational
 
 * [Sky Academy](https://www.dong.digital/skyacademy/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.skyacademy), [iOS](https://apps.apple.com/us/app/sky-academy/id1571488252) - Learn to recognize all the constellations and brightest stars from a gold medal winner of the International Astronomy Olympiad. By [Dong Digital][3].
@@ -338,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
