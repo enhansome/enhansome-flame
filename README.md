@@ -33,8 +33,6 @@
 * [Projects](#projects)
   * [Open Source](#open-source)
   * [App Releases](#app-releases)
-* [Resources](#resources)
-* [Non-English Content](#non-english-content)
 
 ## Articles & Tutorials
 
@@ -100,8 +98,8 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,803 | 🐛 76 | 🌐 Dart | 📅 2026-10-26 - First-party plugins included in Flame's monorepo.
-* [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,485 | 🐛 7 | 🌐 Dart | 📅 2026-10-24 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,806 | 🐛 80 | 🌐 Dart | 📅 2026-10-27 - First-party plugins included in Flame's monorepo.
+* [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,486 | 🐛 7 | 🌐 Dart | 📅 2026-10-24 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 51 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_flutter3d](https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d) ⭐ 32 | 🐛 7 | 🌐 Dart | 📅 2026-10-23 - Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By [dzolotov](https://github.com/dzolotov)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -160,6 +158,10 @@
 
 * Vitayaja - [Android](https://play.google.com/store/apps/details?id=com.kevinomyonga.games.vitayaja) - A thrilling 2D versus fighting game built with precision, speed, and strategy in mind. Choose your fighter and battle against CPU opponents or friends. By [Kevin Omyonga](https://kevinomyonga.com)
 
+<!--lint ignore double-link-->
+
+* Broadside - [Android](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.broadside) - Sail a wooden ship up a sea of big-eyed creatures while the cannons fire on their own, and sink a sea monster boss at the end of every voyage. By [Illumination Development](https://illuminationdevelopment.com)
+
 #### Arcade
 
 <!--lint ignore double-link-->
@@ -173,6 +175,10 @@
 <!--lint ignore double-link-->
 
 * Taco Rain - [Android](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.tacorain), [iOS](https://apps.apple.com/us/app/taco-rain-catch-the-tacos/id6802783584) - A family catching game: steer a basket to catch falling tacos and dodge the bombs, across 50 levels in five worlds, with a daily challenge and an endless mode. By [Illumination Development](https://illuminationdevelopment.com)
+
+<!--lint ignore double-link-->
+
+* Pie Cannon - [Android](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.piecannon) - A carnival shooting gallery: fifty stalls down a world's fair midway, where you splat the ducks and spare the prizes, with a daily stall. By [Illumination Development](https://illuminationdevelopment.com)
 
 #### Board
 
@@ -238,6 +244,10 @@
 * Upverse: Endless Jump - [Android](https://play.google.com/store/apps/details?id=com.xeinebiu.upverse) - Bounce from a sunny meadow into space and beyond. How high can you go? By [xeinebiu](https://github.com/xeinebiu)
 
 * Pimbli: Super Adventures - [Android](https://play.google.com/store/apps/details?id=com.xeinebiu.mousworld1) - Run, jump and explore four worlds with Pimbli, a little hero on a big journey. By [xeinebiu](https://github.com/xeinebiu)
+
+<!--lint ignore double-link-->
+
+* Peel Frenzy - [Android](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.peelfrenzy) - Peel a hundred fruits, each in one clean strip: trace the line, and a tension meter tears the peel if you yank. By [Illumination Development](https://illuminationdevelopment.com)
 
 #### Educational
 
@@ -319,15 +329,6 @@
 
 * Sporehold - [iOS](https://apps.apple.com/us/app/sporehold-turn-based-strategy/id6815795120) - A pixel-art turn-based tactics game where enemies react before your attacks land. Command mushroom warriors, outsmart enemy defenses, and reclaim a kingdom consumed by the Purple Plague. By [Oleksandr Nikolaiev](https://github.com/AANikolaev).
 
-## Resources
-
-* [Game UI Database](https://www.gameuidatabase.com/) - The ultimate screen reference tool for game interface designers. Explore over 500 games and 19,000 individual images, and filter by screen type, material, layout, texture, shapes, patterns, genres and more!
-
-## Non-English Content
-
-* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
-* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
-
 ## Contributing
 
 [Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md)
@@ -344,4 +345,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
