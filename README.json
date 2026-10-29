@@ -49,11 +49,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-27T16:10:17Z",
-            "open_issues": 80,
+            "last_commit": "2026-10-29T05:06:33Z",
+            "open_issues": 90,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10806,
+            "stars": 10808,
             "topics": [
               "dart",
               "flame",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T05:30:56.396Z",
+    "last_updated": "2026-10-29T05:39:44.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -783,11 +783,11 @@
       "id": 212109055,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-27T12:35:11Z",
+      "last_commit": "2026-10-28T17:58:34Z",
       "open_issues": 0,
       "owner": "flame-engine",
       "repo": "awesome-flame",
-      "stars": 1391,
+      "stars": 1393,
       "topics": [
         "awesome",
         "awesome-list",
@@ -799,7 +799,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "76128606a157a706d89b99e2b90e250859bd308f",
+    "original_repository_sha": "4c7e937119b1ea7402e1e7a83b6679eaeb0d5303",
     "enhanced_repository": "enhansome/enhansome-flame",
     "enhanced_repository_description": null,
     "title": "Awesome Flame with stars"

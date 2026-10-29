@@ -98,7 +98,7 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,806 | 🐛 80 | 🌐 Dart | 📅 2026-10-27 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,808 | 🐛 90 | 🌐 Dart | 📅 2026-10-29 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,486 | 🐛 7 | 🌐 Dart | 📅 2026-10-24 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 51 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_flutter3d](https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d) ⭐ 32 | 🐛 7 | 🌐 Dart | 📅 2026-10-23 - Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By [dzolotov](https://github.com/dzolotov)
@@ -179,6 +179,10 @@
 <!--lint ignore double-link-->
 
 * Pie Cannon - [Android](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.piecannon) - A carnival shooting gallery: fifty stalls down a world's fair midway, where you splat the ducks and spare the prizes, with a daily stall. By [Illumination Development](https://illuminationdevelopment.com)
+
+<!--lint ignore double-link-->
+
+* Twinglide - [Android](https://play.google.com/store/apps/details?id=com.teoktonos.twinglide) - Steer two wingsuit flyers at once, one per thumb, through an endless procedural canyon that narrows as you speed up. By [Teoktonos](https://twinglide.teoktonos.com)
 
 #### Board
 
@@ -345,4 +349,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
