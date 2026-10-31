@@ -49,8 +49,8 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-29T17:16:11Z",
-            "open_issues": 86,
+            "last_commit": "2026-10-31T00:01:16Z",
+            "open_issues": 97,
             "owner": "flame-engine",
             "repo": "flame",
             "stars": 10809,
@@ -83,7 +83,7 @@
             "open_issues": 7,
             "owner": "RafaelBarbosatec",
             "repo": "bonfire",
-            "stars": 1486,
+            "stars": 1488,
             "topics": [
               "dart",
               "flutter",
@@ -128,7 +128,7 @@
             "id": 1328186979,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-23T18:13:05Z",
+            "last_commit": "2026-10-30T18:09:48Z",
             "open_issues": 7,
             "owner": "pleiondev",
             "repo": "flutter3d",
@@ -210,7 +210,7 @@
                     "open_issues": 0,
                     "owner": "Float-like-a-dash-Sting-like-a-dart",
                     "repo": "GhostRigger",
-                    "stars": 265,
+                    "stars": 266,
                     "topics": [
                       "flame",
                       "flame-engine",
@@ -688,8 +688,8 @@
                     "id": 729289846,
                     "language": "Dart",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-29T21:18:14Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-31T01:57:58Z",
+                    "open_issues": 5,
                     "owner": "imaNNeo",
                     "repo": "save_the_potato",
                     "stars": 40,
@@ -720,7 +720,7 @@
                     "open_issues": 0,
                     "owner": "Shadow60539",
                     "repo": "club_penguin_game",
-                    "stars": 117,
+                    "stars": 118,
                     "topics": [
                       "firebase",
                       "firebase-auth",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T05:38:37.616Z",
+    "last_updated": "2026-10-31T05:29:40.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -787,7 +787,7 @@
       "open_issues": 0,
       "owner": "flame-engine",
       "repo": "awesome-flame",
-      "stars": 1394,
+      "stars": 1395,
       "topics": [
         "awesome",
         "awesome-list",

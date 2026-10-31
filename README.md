@@ -98,10 +98,10 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,809 | 🐛 86 | 🌐 Dart | 📅 2026-10-29 - First-party plugins included in Flame's monorepo.
-* [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,486 | 🐛 7 | 🌐 Dart | 📅 2026-10-24 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,809 | 🐛 97 | 🌐 Dart | 📅 2026-10-31 - First-party plugins included in Flame's monorepo.
+* [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,488 | 🐛 7 | 🌐 Dart | 📅 2026-10-24 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 51 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
-* [flame\_flutter3d](https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d) ⭐ 33 | 🐛 7 | 🌐 Dart | 📅 2026-10-23 - Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By [dzolotov](https://github.com/dzolotov)
+* [flame\_flutter3d](https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d) ⭐ 33 | 🐛 7 | 🌐 Dart | 📅 2026-10-30 - Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By [dzolotov](https://github.com/dzolotov)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
 * [fuse](https://github.com/misha/flame_fuse) ⭐ 3 | 🐛 0 | 🌐 Dart | 📅 2026-05-20 - Behavior composition with hooks for Flame components. By [Misha](https://github.com/misha)
 
@@ -113,7 +113,7 @@
 
 <!--lint ignore double-link-->
 
-* [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) ⭐ 265 | 🐛 0 | 🌐 Dart | 📅 2020-07-10 - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
+* [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) ⭐ 266 | 🐛 0 | 🌐 Dart | 📅 2020-07-10 - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
 * [New Super Jumper](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) ⭐ 178 | 🐛 2 | 🌐 Dart | 📅 2025-02-22 - A doodle jump clone made with Flame and Forge2D. By [Yayocode][2].
 * [Spacescape](https://github.com/ufrshubham/spacescape) ⭐ 135 | 🐛 1 | 🌐 Dart | 📅 2025-10-12 - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage][1].
 * [Snaake!](https://github.com/lucasnlm/snaake-flutter) ⭐ 82 | 🐛 1 | 🌐 Dart | 📅 2020-10-10 - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
@@ -223,7 +223,7 @@
 
 <!--lint ignore double-link-->
 
-* Save The Potato [source-code](https://github.com/imaNNeo/save_the_potato) ⭐ 40 | 🐛 3 | 🌐 Dart | 📅 2026-10-29 - 🥇 Winner of [Flame Game Jam 3.0](https://itch.io/jam/flame-jam-3/results) - Rotate the shields and save the potato from incoming orbs! By [imaNNeo](https://imanneo.dev). [for Android or iOS](http://savethepotato.com)
+* Save The Potato [source-code](https://github.com/imaNNeo/save_the_potato) ⭐ 40 | 🐛 5 | 🌐 Dart | 📅 2026-10-31 - 🥇 Winner of [Flame Game Jam 3.0](https://itch.io/jam/flame-jam-3/results) - Rotate the shields and save the potato from incoming orbs! By [imaNNeo](https://imanneo.dev). [for Android or iOS](http://savethepotato.com)
 
 * Hyper Hexagon - [Android](https://play.google.com/store/apps/details?id=it.cocce.hyperhexagon), [Web](https://thecocce.itch.io/hyper-hexagon) - Hexagonal board game challenge - A classical and futuristic. Inspired by the old classic Hexxagon '90s game. By [TheCocce](https://github.com/thecocce/)
 
@@ -271,7 +271,7 @@
 
 <!--lint ignore double-link-->
 
-* Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub](https://github.com/Shadow60539/club_penguin_game) ⭐ 117 | 🐛 0 | 🌐 Dart | 📅 2023-04-23 - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
+* Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub](https://github.com/Shadow60539/club_penguin_game) ⭐ 118 | 🐛 0 | 🌐 Dart | 📅 2023-04-23 - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
 
 #### Puzzle Games
 
@@ -349,4 +349,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
