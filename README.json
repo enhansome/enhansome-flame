@@ -49,11 +49,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-31T00:01:16Z",
-            "open_issues": 97,
+            "last_commit": "2026-11-01T02:02:34Z",
+            "open_issues": 95,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10809,
+            "stars": 10810,
             "topics": [
               "dart",
               "flame",
@@ -132,7 +132,7 @@
             "open_issues": 7,
             "owner": "pleiondev",
             "repo": "flutter3d",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "3d-game",
               "3d-graphics",
@@ -688,8 +688,8 @@
                     "id": 729289846,
                     "language": "Dart",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-31T01:57:58Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-11-01T00:22:07Z",
+                    "open_issues": 4,
                     "owner": "imaNNeo",
                     "repo": "save_the_potato",
                     "stars": 40,
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T05:29:40.041Z",
+    "last_updated": "2026-11-01T05:54:47.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
