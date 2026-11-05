@@ -210,7 +210,7 @@
                     "open_issues": 0,
                     "owner": "Float-like-a-dash-Sting-like-a-dart",
                     "repo": "GhostRigger",
-                    "stars": 266,
+                    "stars": 267,
                     "topics": [
                       "flame",
                       "flame-engine",
@@ -296,7 +296,7 @@
                     "open_issues": 1,
                     "owner": "lucasnlm",
                     "repo": "snaake-flutter",
-                    "stars": 82,
+                    "stars": 81,
                     "topics": [
                       "bloc",
                       "flame-engine",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T06:06:49.056Z",
+    "last_updated": "2026-11-05T06:36:05.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -784,7 +784,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-03T19:43:27Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "flame-engine",
       "repo": "awesome-flame",
       "stars": 1395,
