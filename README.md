@@ -98,8 +98,8 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,810 | 🐛 104 | 🌐 Dart | 📅 2026-11-06 - First-party plugins included in Flame's monorepo.
-* [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,489 | 🐛 7 | 🌐 Dart | 📅 2026-10-24 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,811 | 🐛 105 | 🌐 Dart | 📅 2026-11-07 - First-party plugins included in Flame's monorepo.
+* [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,489 | 🐛 8 | 🌐 Dart | 📅 2026-11-07 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 51 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_flutter3d](https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d) ⭐ 35 | 🐛 7 | 🌐 Dart | 📅 2026-10-30 - Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By [dzolotov](https://github.com/dzolotov)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -114,7 +114,7 @@
 <!--lint ignore double-link-->
 
 * [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) ⭐ 267 | 🐛 0 | 🌐 Dart | 📅 2020-07-10 - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
-* [New Super Jumper](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) ⭐ 178 | 🐛 2 | 🌐 Dart | 📅 2025-02-22 - A doodle jump clone made with Flame and Forge2D. By [Yayocode][2].
+* [New Super Jumper](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) ⭐ 179 | 🐛 2 | 🌐 Dart | 📅 2025-02-22 - A doodle jump clone made with Flame and Forge2D. By [Yayocode][2].
 * [Spacescape](https://github.com/ufrshubham/spacescape) ⭐ 135 | 🐛 1 | 🌐 Dart | 📅 2025-10-12 - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage][1].
 * [Snaake!](https://github.com/lucasnlm/snaake-flutter) ⭐ 81 | 🐛 1 | 🌐 Dart | 📅 2020-10-10 - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
 * [Bob Box](https://github.com/fireslime/bounce_box) ⭐ 43 | 🐛 0 | 🌐 Dart | 📅 2020-02-04 - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
@@ -223,7 +223,7 @@
 
 <!--lint ignore double-link-->
 
-* Save The Potato [source-code](https://github.com/imaNNeo/save_the_potato) ⭐ 40 | 🐛 4 | 🌐 Dart | 📅 2026-11-07 - 🥇 Winner of [Flame Game Jam 3.0](https://itch.io/jam/flame-jam-3/results) - Rotate the shields and save the potato from incoming orbs! By [imaNNeo](https://imanneo.dev). [for Android or iOS](http://savethepotato.com)
+* Save The Potato [source-code](https://github.com/imaNNeo/save_the_potato) ⭐ 40 | 🐛 1 | 🌐 Dart | 📅 2026-11-07 - 🥇 Winner of [Flame Game Jam 3.0](https://itch.io/jam/flame-jam-3/results) - Rotate the shields and save the potato from incoming orbs! By [imaNNeo](https://imanneo.dev). [for Android or iOS](http://savethepotato.com)
 
 * Hyper Hexagon - [Android](https://play.google.com/store/apps/details?id=it.cocce.hyperhexagon), [Web](https://thecocce.itch.io/hyper-hexagon) - Hexagonal board game challenge - A classical and futuristic. Inspired by the old classic Hexxagon '90s game. By [TheCocce](https://github.com/thecocce/)
 
@@ -349,4 +349,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
