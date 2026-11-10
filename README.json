@@ -49,8 +49,8 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-11-07T15:00:06Z",
-            "open_issues": 105,
+            "last_commit": "2026-11-09T18:28:08Z",
+            "open_issues": 102,
             "owner": "flame-engine",
             "repo": "flame",
             "stars": 10812,
@@ -563,7 +563,7 @@
                     "open_issues": 0,
                     "owner": "ecklf",
                     "repo": "flutters",
-                    "stars": 243,
+                    "stars": 242,
                     "topics": [
                       "flame",
                       "flutter",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T06:13:08.585Z",
+    "last_updated": "2026-11-10T07:09:18.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -784,7 +784,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-03T19:43:27Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "flame-engine",
       "repo": "awesome-flame",
       "stars": 1398,
