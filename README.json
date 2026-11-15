@@ -49,8 +49,8 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-11-13T19:09:17Z",
-            "open_issues": 96,
+            "last_commit": "2026-11-14T11:35:40Z",
+            "open_issues": 97,
             "owner": "flame-engine",
             "repo": "flame",
             "stars": 10819,
@@ -688,7 +688,7 @@
                     "id": 729289846,
                     "language": "Dart",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-07T20:25:31Z",
+                    "last_commit": "2026-11-14T14:30:08Z",
                     "open_issues": 1,
                     "owner": "imaNNeo",
                     "repo": "save_the_potato",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T06:10:30.370Z",
+    "last_updated": "2026-11-15T06:18:09.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
