@@ -49,8 +49,8 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-11-19T12:11:31Z",
-            "open_issues": 94,
+            "last_commit": "2026-11-20T19:30:01Z",
+            "open_issues": 95,
             "owner": "flame-engine",
             "repo": "flame",
             "stars": 10821,
@@ -128,7 +128,7 @@
             "id": 1328186979,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-11-13T18:11:25Z",
+            "last_commit": "2026-11-20T18:11:30Z",
             "open_issues": 7,
             "owner": "pleiondev",
             "repo": "flutter3d",
@@ -324,7 +324,7 @@
                     "open_issues": 0,
                     "owner": "cherrybit-studios",
                     "repo": "bob_box",
-                    "stars": 43,
+                    "stars": 44,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
@@ -464,7 +464,7 @@
                     "id": 811941764,
                     "language": "Dart",
                     "license": "MIT",
-                    "last_commit": "2025-09-14T14:58:13Z",
+                    "last_commit": "2026-11-21T05:57:30Z",
                     "open_issues": 0,
                     "owner": "mglsj",
                     "repo": "visual_graphs",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T07:03:51.229Z",
+    "last_updated": "2026-11-21T06:57:44.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -783,11 +783,11 @@
       "id": 212109055,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-17T16:50:11Z",
+      "last_commit": "2026-11-20T12:01:50Z",
       "open_issues": 0,
       "owner": "flame-engine",
       "repo": "awesome-flame",
-      "stars": 1398,
+      "stars": 1399,
       "topics": [
         "awesome",
         "awesome-list",
@@ -799,7 +799,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "89fb78e76384dab9b30e6960d9b1ac1feab31946",
+    "original_repository_sha": "2a55fddcef8bea720419e58128ed0da3624df4bf",
     "enhanced_repository": "enhansome/enhansome-flame",
     "enhanced_repository_description": null,
     "title": "Awesome Flame with stars"

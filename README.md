@@ -98,10 +98,10 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,821 | 🐛 94 | 🌐 Dart | 📅 2026-11-19 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,821 | 🐛 95 | 🌐 Dart | 📅 2026-11-20 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,495 | 🐛 6 | 🌐 Dart | 📅 2026-11-16 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 51 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
-* [flame\_flutter3d](https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d) ⭐ 36 | 🐛 7 | 🌐 Dart | 📅 2026-11-13 - Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By [dzolotov](https://github.com/dzolotov)
+* [flame\_flutter3d](https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d) ⭐ 36 | 🐛 7 | 🌐 Dart | 📅 2026-11-20 - Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By [dzolotov](https://github.com/dzolotov)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
 * [fuse](https://github.com/misha/flame_fuse) ⭐ 3 | 🐛 0 | 🌐 Dart | 📅 2026-05-20 - Behavior composition with hooks for Flame components. By [Misha](https://github.com/misha)
 
@@ -117,7 +117,7 @@
 * [New Super Jumper](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) ⭐ 179 | 🐛 2 | 🌐 Dart | 📅 2025-02-22 - A doodle jump clone made with Flame and Forge2D. By [Yayocode][2].
 * [Spacescape](https://github.com/ufrshubham/spacescape) ⭐ 135 | 🐛 1 | 🌐 Dart | 📅 2025-10-12 - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage][1].
 * [Snaake!](https://github.com/lucasnlm/snaake-flutter) ⭐ 81 | 🐛 1 | 🌐 Dart | 📅 2020-10-10 - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
-* [Bob Box](https://github.com/fireslime/bounce_box) ⭐ 43 | 🐛 0 | 🌐 Dart | 📅 2020-02-04 - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
+* [Bob Box](https://github.com/fireslime/bounce_box) ⭐ 44 | 🐛 0 | 🌐 Dart | 📅 2020-02-04 - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
 * [Square Shooter](https://github.com/namzug16/squareshooter_flame) ⭐ 38 | 🐛 1 | 🌐 Dart | 📅 2025-07-08 - A simple 2D top-down shooter for the web. Play solo vs AI or sit back and let the AI battle its own. By [Namzug](https://namzug.dev/).
 * [Ant Squash](https://github.com/sourabhgupta811/Ant-Squash) ⭐ 25 | 🐛 0 | 🌐 Dart | 📅 2024-02-16 - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
 * [Antimine - Minesweeper](https://github.com/lucasnlm/antimine-flutter) ⭐ 23 | 🐛 7 | 🌐 Dart | 📅 2025-03-16 - Antimine is a minesweeper-like puzzle game. The objective is to flag the spaces with mines to make the field a safer place without exploding any of them. Get it on [Google Play](https://play.google.com/store/apps/details?id=com.logical.minato). By [lucasnlm](https://github.com/lucasnlm).
@@ -126,7 +126,7 @@
 
 #### Education
 
-* [Visual Graphs](https://mglsj.eu.org/visual_graphs/) - A graph (data structure) algoithims visualizer built with Flutter & Flame. By [mglsj](https://github.com/mglsj/visual_graphs) ⭐ 7 | 🐛 0 | 🌐 Dart | 📅 2025-09-14
+* [Visual Graphs](https://mglsj.eu.org/visual_graphs/) - A graph (data structure) algoithims visualizer built with Flutter & Flame. By [mglsj](https://github.com/mglsj/visual_graphs) ⭐ 7 | 🐛 0 | 🌐 Dart | 📅 2026-11-21
 
 #### Endless Runner
 
@@ -195,6 +195,8 @@
 <!--lint ignore double-link-->
 
 * Hungry Fish: Eat, Grow, Evolve - [Android](https://play.google.com/store/apps/details?id=com.newagedevs.hungryfish) - A fish-eat-fish game: grow through 13 evolution stages across 11 ocean worlds and beat a giant boss in each. By [NewAgeDevs](https://newagedevs.com)
+
+* Egg Beat! - [Android](https://play.google.com/store/apps/details?id=com.luciosoft.eggbeat\&hl=en), [iOS](https://apps.apple.com/app/id6833969842) - A physics-based rhythm arcade game where you balance a tray on your head to catch falling eggs, pack cartons, dodge bombs, and master themed worlds with unique hazards plus a Daily Doodle challenge. By [LucioSoft](https://github.com/adlucio87)
 
 #### Board
 
@@ -376,4 +378,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
