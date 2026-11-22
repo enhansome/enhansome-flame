@@ -98,8 +98,8 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,821 | 🐛 95 | 🌐 Dart | 📅 2026-11-20 - First-party plugins included in Flame's monorepo.
-* [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,495 | 🐛 6 | 🌐 Dart | 📅 2026-11-16 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,822 | 🐛 93 | 🌐 Dart | 📅 2026-11-21 - First-party plugins included in Flame's monorepo.
+* [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,495 | 🐛 7 | 🌐 Dart | 📅 2026-11-21 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 51 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_flutter3d](https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d) ⭐ 36 | 🐛 7 | 🌐 Dart | 📅 2026-11-20 - Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By [dzolotov](https://github.com/dzolotov)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -378,4 +378,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
