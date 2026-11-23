@@ -261,7 +261,7 @@
                     "open_issues": 1,
                     "owner": "ufrshubham",
                     "repo": "spacescape",
-                    "stars": 135,
+                    "stars": 134,
                     "topics": [
                       "2d-game",
                       "2d-top",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T06:37:19.358Z",
+    "last_updated": "2026-11-23T07:26:00.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -784,7 +784,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-20T12:01:50Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "flame-engine",
       "repo": "awesome-flame",
       "stars": 1399,
