@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T08:21:02.817Z",
+    "last_updated": "2026-11-26T08:06:04.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -784,7 +784,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-20T12:01:50Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "flame-engine",
       "repo": "awesome-flame",
       "stars": 1400,
