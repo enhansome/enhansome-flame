@@ -49,11 +49,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-11-24T18:29:05Z",
-            "open_issues": 87,
+            "last_commit": "2026-11-26T18:49:28Z",
+            "open_issues": 96,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10824,
+            "stars": 10826,
             "topics": [
               "dart",
               "flame",
@@ -629,7 +629,7 @@
                     "open_issues": 1,
                     "owner": "RafaelBarbosatec",
                     "repo": "darkness_dungeon",
-                    "stars": 469,
+                    "stars": 470,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:18:05.254Z"
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T08:06:04.093Z",
+    "last_updated": "2026-11-27T08:16:07.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
@@ -787,7 +787,7 @@
       "open_issues": 3,
       "owner": "flame-engine",
       "repo": "awesome-flame",
-      "stars": 1400,
+      "stars": 1401,
       "topics": [
         "awesome",
         "awesome-list",

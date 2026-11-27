@@ -98,7 +98,7 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,824 | 🐛 87 | 🌐 Dart | 📅 2026-11-24 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,826 | 🐛 96 | 🌐 Dart | 📅 2026-11-26 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,496 | 🐛 6 | 🌐 Dart | 📅 2026-11-24 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 51 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_flutter3d](https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d) ⭐ 36 | 🐛 7 | 🌐 Dart | 📅 2026-11-20 - Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By [dzolotov](https://github.com/dzolotov)
@@ -144,7 +144,7 @@
 
 #### RPG
 
-* [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) ⭐ 469 | 🐛 1 | 🌐 Dart | 📅 2025-01-12 - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+* [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) ⭐ 470 | 🐛 1 | 🌐 Dart | 📅 2025-01-12 - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
 #### Strategy
 
@@ -378,4 +378,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
